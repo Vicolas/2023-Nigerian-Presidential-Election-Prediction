@@ -1,19 +1,11 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 13 00:20:33 2023
-
-@author: mac
-"""
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 
 
 
-#dataset = pd.read_csv('./data/election_predict.csv')
-dataset = pd.read_csv('/Users/mac/Downloads/election_predict.csv')
+dataset = pd.read_csv('./data/election_predict.csv')
+#dataset = pd.read_csv('/Users/mac/Downloads/election_predict.csv')
 
 
 st.set_page_config(page_title='2023 Nigerian Presdential Election Prediction', page_icon=None, layout="wide", initial_sidebar_state="auto", menu_items=None)
