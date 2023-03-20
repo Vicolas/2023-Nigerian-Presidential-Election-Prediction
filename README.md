@@ -1,6 +1,6 @@
-[VIEW ELECTION PREDICTION DASHBOARD](https://vicolas-2023-nigerian-presidential-election-pre-election-7dvl76.streamlit.app/ "Election Dashboard")
+[VIEW ELECTION PREDICTION DASHBOARD](https://vicolas-2023-nigerian-presidential-election-pre-election-7dvl76.streamlit.app/)
 
-[ANALYSE YOUR SENTIMENT DATA](https://vicolas-2023-nigerian-presidential-electi-pages2-analyse-cio3tl.streamlit.app/ "Analyse Your Sentiment Data")
+[ANALYSE YOUR SENTIMENT DATA](https://vicolas-2023-nigerian-presidential-electi-pages2-analyse-cio3tl.streamlit.app/)
 # 2023-Nigerian-Presidential-Election-Prediction
 This project is a sentiment analysis to weigh the negative positive and neutral emotions of Nigerians towards the election
 
