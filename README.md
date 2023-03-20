@@ -1,4 +1,4 @@
-[VIEW ELECTION PREDICTION DASHBOARD](https://vicolas-2023-nigerian-presidential-election-pre-election-7dvl76.streamlit.app/ "Election Dashboard")\n
+[VIEW ELECTION PREDICTION DASHBOARD](https://vicolas-2023-nigerian-presidential-election-pre-election-7dvl76.streamlit.app/ "Election Dashboard")
 
 [ANALYSE YOUR SENTIMENT DATA](https://vicolas-2023-nigerian-presidential-electi-pages2-analyse-cio3tl.streamlit.app/ "Analyse Your Sentiment Data")
 # 2023-Nigerian-Presidential-Election-Prediction
