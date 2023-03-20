@@ -8,6 +8,7 @@ import cleantext
 st.title('Analyse Your Text')
 
 st.header('Sentiment Analysis')
+
 with st.expander('Analyze Text'):
     text = st.text_input('Text here: ')
     if text:
@@ -20,7 +21,8 @@ with st.expander('Analyze Text'):
     if pre:
         st.write(cleantext.clean(pre, clean_all= False, extra_spaces=True ,
                                  stopwords=True ,lowercase=True ,numbers=True , punct=True))
-
+        
+st.write('Kindly rename your text, content or tweets column into **tweet** before analysing')
 with st.expander('Analyze CSV'):
     upl = st.file_uploader('Upload file')
 
